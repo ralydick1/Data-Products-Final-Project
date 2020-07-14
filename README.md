@@ -4,7 +4,7 @@ This is a github repo for the final project of the Developing Data Products Cour
 
 The appliacation developed for this project can be found here: https://ra-lydick.shinyapps.io/Loan-Calc/
 
-A presentation, which details how the application works can be found here:
+A presentation, which details how the application works can be found here: https://rpubs.com/ralydick/loan-calc
 
 
 
